@@ -1,7 +1,7 @@
 import torch
 from torch import nn
 
-class CoAtNet(nn.Module):
+class CoAtNet(nn.Module):   #test
     def __init__(self, num_classes=36):
         super(CoAtNet, self).__init__()
 
